@@ -12,6 +12,7 @@
 - flask-session>=0.3.1
 - Geoalchemy2>=0.5.0
 - psycopg2-binary>=2.7.6.1
+- mysqlclient>=1.3.14
 - PyJWT>=1.7.1
 - flask-cors>=3.0.7
 
