@@ -194,3 +194,7 @@
         }
 }
   ```
+  
+### 示例
+
+- [flask-restful完整示例](https://github.com/flask-framework/flask-restful-example)
